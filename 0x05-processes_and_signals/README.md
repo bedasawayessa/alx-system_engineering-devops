@@ -1,1 +1,1 @@
-signals
+project signals
