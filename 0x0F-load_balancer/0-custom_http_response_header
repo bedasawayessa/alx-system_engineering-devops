@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-<<<<<<< HEAD
 # configure web-02 to be identical to web-01
 # The name of the custom HTTP header must be X-Served-By
 # The value of the custom HTTP header must be the hostname of the server Nginx is running on
@@ -46,4 +45,3 @@ sed -i '/listen 80 default_server/a \\terror_page 404 /404.html;' /etc/nginx/sit
 sudo sed -i "/listen 80 default_server/a add_header X-Served-By '$HOSTNAME';" /etc/nginx/sites-available/default
 sudo service nginx reload
 sudo service nginx start
->>>>>>> 680c0264d2df19543071274b50fdc4b90012525e
