@@ -1,5 +1,5 @@
 # Server Outage Incident report
-> By Kabada Sori
+
 
 ![](https://t3.ftcdn.net/jpg/04/92/09/72/240_F_492097246_yagE8x9Uk8M9IekPy7GBuE0x1Uoa7esD.jpg)
 
